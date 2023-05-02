@@ -1,2 +1,1 @@
-# FinalExamSpring2023
-the exam you should be doing May 2, 2023
+I got pretty much everything to work. I had to cut it short trying to debug the audio and the file writing for high scores. I had to go to work. I was scheduled at 4pm for work but stayed as long as I could to do the exam.
